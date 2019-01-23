@@ -1,5 +1,7 @@
 # Python Coding Excercise
 
+## Data structure and Algorithm
+Exercises related to data structure and algorithm are in the the folder data_str_algo
 
 ## Add Two Numbers
 
@@ -21,3 +23,10 @@ for example:
 1. lengthOfLongestSubstring('abc') == 3
 2. lengthOfLongestSubstring('1111111') == 1
 3. lengthOfLongestSubstring('112123123412345') == 5
+
+## pascal
+goal: write the program to output the pascal's triangle of height n
+
+## classHierachy
+The goal of the excercise is to write a class for logical circuits. And perform binary arithmatic operation
+

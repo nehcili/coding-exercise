@@ -1,0 +1,17 @@
+Data structure and algorithm exercise:
+numbered ones are taken from Cracking the Coding Interview 6th edition
+
+
+Paindrome Permutation
+write a function to check if an input is a permutation of a palindrome
+
+binary search
+write binayr search of a sorted lsit
+
+1.7 Rotate a Matrix
+A matrix is a N x N list
+rotate matrix rotates a matrix clock wise 90 degrees
+
+Jan 23: chapter 10 sorting and searching
+10.2 Group Anagrams: Write a method to sort an array of strings so that all the anagrams are next to
+each other.
